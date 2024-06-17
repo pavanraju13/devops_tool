@@ -1,2 +1,2 @@
 # devops_tool
-Deploying chilling cafe website
+Deploying chilling cafe website into the aws server
